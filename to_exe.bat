@@ -1,0 +1,1 @@
+pyinstaller --onedir --onefile --name=Client "client.py"
