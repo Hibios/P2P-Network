@@ -1,4 +1,4 @@
-# P2P Network
+# P2P Network for Windows
 To start the client, run the command line: 
 
 python client.py
